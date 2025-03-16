@@ -63,4 +63,5 @@ Java_MemoryGame/
 ## 📜 License
 This project is open-source. Feel free to modify and distribute it as needed!
 
-🚀 **Happy Coding!**
+
+**Happy Coding!**
